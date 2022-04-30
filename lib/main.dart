@@ -1,5 +1,5 @@
-import 'package:courseapplandingpage/home.dart';
-import 'package:courseapplandingpage/onboard/onboard.dart';
+import 'package:flip/home.dart';
+import 'package:flip/onboard/onboard.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
