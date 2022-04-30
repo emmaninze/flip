@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "mpotthoff.vscode-android-webview-debug",
+        "vinicioslc.adb-interface-vscode",
+        "Dart-Code.flutter"
+    ]
+}
