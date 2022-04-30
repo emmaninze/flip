@@ -1,4 +1,4 @@
-import 'package:flip/home.dart';
+//import 'package:flip/home.dart';
 import 'package:flip/onboard/onboard.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
